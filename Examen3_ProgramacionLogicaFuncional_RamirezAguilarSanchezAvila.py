@@ -123,15 +123,15 @@ Fedora  Comprensin de listas   15 pts
     
 """
 
-def contar(L):
+def fedora(L):
 	if not L:
 		return []
 	if 'fedora' in L[0]:
-		return  [L[0]]+contar(L[1:])
-	else: return contar(L[1:])
-LS=contar(D)
-print ("Conjuntos con sombrero Fedora: ",LS)
-print ("Numero de conjuntos: " , len (LS))
+		return  [L[0]]+fedora(L[1:])
+	else: return fedora(L[1:])
+Conjunto=fedora(D)
+print ("Conjuntos con sombrero Fedora: ",Conjunto)
+print ("Numero de conjuntos: " , len (Conjunto))
 
 
 

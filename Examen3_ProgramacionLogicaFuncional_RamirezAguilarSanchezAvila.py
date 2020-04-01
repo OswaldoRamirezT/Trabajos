@@ -133,7 +133,7 @@ Conjunto=fedora(D)
 print ("Conjuntos con sombrero Fedora: ",Conjunto)
 print ("Numero de conjuntos: " , len (Conjunto))
 
-
+# Monads
 
 """
 <Monads>   30 pts

@@ -1,7 +1,7 @@
-%Ejercicio String prolog 
+% Ejercicio String prolog 2
 % Ramirez Aguilar Jose Oswaldo, Sanchez Avila Gustavo
-%Es simple realicen el analizador léxico que realice en los ultimos
-%dos videos
+% Es simple realicen el analizador léxico que realice en los ultimos
+% dos videos
 
 %Exp ::= "(" ' ' <Operacion> ' ' ")"
 %Operacion ::= <Operador>' '<SecNumeros>

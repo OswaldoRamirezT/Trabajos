@@ -1,5 +1,4 @@
-% Desarrollo una gramatica bnf (como la del video) para validar una 
-% direccion ipv4 asi como una mascara de red.
+% Desarrollo una gramatica bnf (como la del video) para validar una direccion ipv4 asi como una mascara de red.
 % Ramirez Aguilar Jose Oswaldo & Sanchez Avila Gustavo
 % https://es.wikipedia.org/wiki/M%C3%A1scara_de_red#Tabla_de_m%C3%A1scaras_de_red
 % Realice la implementacion de dicha gramatica en prolog donde
